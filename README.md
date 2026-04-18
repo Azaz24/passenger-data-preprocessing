@@ -1,6 +1,6 @@
-# 🚀 Passenger Data Preprocessing
+#  Passenger Data Preprocessing
 
-## 📌 Objective
+##  Objective
 To convert raw passenger data into a machine-learning-ready format using encoding and feature scaling techniques.
 
 ---
@@ -24,12 +24,12 @@ Contains:
 
 ---
 
-## 🧠 Key Insight
+##  Key Insight
 Encoding converts categorical data into numeric form, and scaling ensures all features contribute equally to the model.
 
 ---
 
-## 📸 Output
+## Screenshot Output
 ![Processed Dataset](Screenshot.png)
 
 ---
@@ -46,5 +46,5 @@ Data successfully preprocessed and made ready for machine learning models.
 
 ---
 
-## 📌 Author
+##  Author
 ML Data Preprocessing Assignment
